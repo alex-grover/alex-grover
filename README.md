@@ -1,4 +1,4 @@
-### Hey, I'm Alex Grover 👋
+### Hey, I'm Alex 👋
 
 - 👨🏻‍💻 I’m currently working on rebuilding my personal website
 - 🦀 I’m currently learning Rust and Colemak-DH
